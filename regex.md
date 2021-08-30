@@ -1,6 +1,10 @@
-# Title (replace with your title)
+# Manipulating Patterns with Regular Expressions
 
-Introductory paragraph (replace this with your text)
+Oftentimes it is necessary to work with data that requires transformation before it can be loaded into a data store or perhaps each occurance of a word or phrase needs to be found in a large data set. 
+
+In such cases regular expressions can be coded and used to produce the required result through pattern matching. No matter the programming language, regular expressions is a vital concept to learn and use. 
+
+The following is a simple JavaScript tutorial on how to use a regular expression to count the number of times a particular word appears in a bit of text. 
 
 ## Summary
 
